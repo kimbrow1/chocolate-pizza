@@ -7,3 +7,21 @@
 #mid-img {
     text-align: center;
 }
+
+#mid-h {
+    margin: 0px;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+#list {
+   margin: 5px;
+   
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
